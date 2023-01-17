@@ -2,8 +2,11 @@
    Documenting my learning journey of [Namaste React Live Course](https://learn.namastedev.com/) conducted by Akshay Saini
    
 ## Table of Contents
-This is the index page for all the chapters that we will be learning in this course. Following table contains link to each chapter, its summary and the live demo of the respective chapter. Have a look at the live demo of each chapter to see how my learning in react has progressed. Happy Reacting !!!
-
+This is the index page for all the chapters that we will be learning in this course. Following table contains link to each chapter, its summary and the live demo of the respective chapter. Have a look at the live demo of each chapter to see how my learning in react has progressed. 
+</br>
+Happy Reacting !!!
+</br>
+</br>
 
 | Chapter                                      | Summary                                         | Demo                                      |
 | :------------------------------------------- | :---------------------------------------------- | :-------------------------------          | 
