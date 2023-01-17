@@ -3,10 +3,9 @@
    
 ## Table of Contents
 This is the index page for all the chapters that we will be learning in this course. Following table contains link to each chapter, its summary and the live demo of the respective chapter. Have a look at the live demo of each chapter to see how my learning in react has progressed. 
-</br>
-Happy Reacting !!!
-</br>
-</br>
+
+### Happy Reacting !!!
+
 
 | Chapter                                      | Summary                                         | Demo                                      |
 | :------------------------------------------- | :---------------------------------------------- | :-------------------------------          | 
