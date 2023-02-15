@@ -6,7 +6,7 @@ This is the index page for all the chapters that we will be learning in this cou
 
 ### React Project Setup 
 
-Before checking the chapters that we covered, if you need the cheatsheet to create the React App from scratch (steps that we followed in Namaste React Course), check out [React Project Setup Cheatsheet](https://github.com/Learn-React-With-Harshi/namaste-react-project-setup-cheatsheet) or if you wan to setup the react app using create-react-app, check out [Setup using CRA](https://github.com/Learn-React-With-Harshi/chapter-14-machine-coding-interview/blob/main/setup.md)
+Before checking the chapters that we covered, if you need the cheatsheet to create the React App from scratch (steps that we followed in Namaste React Course), check out [React Project Setup Cheatsheet](https://github.com/Learn-React-With-Harshi/namaste-react-project-setup-cheatsheet) or if you want to setup the react app using create-react-app, check out [Setup using CRA](https://github.com/Learn-React-With-Harshi/chapter-14-machine-coding-interview/blob/main/setup.md)
 
 ### Happy Reacting !!!  <br />  <br />  <br />
 
